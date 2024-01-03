@@ -1,0 +1,4 @@
+Hello this is myfile
+second line
+Four on line
+Four on line
